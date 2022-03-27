@@ -1,6 +1,4 @@
-from turtle import left
 import cv2 as cv # Let's count the cars
-import time
 
 from matplotlib.pyplot import contour      # Let's count only after a few time
 
