@@ -1,7 +1,5 @@
 import cv2 as cv # Let's count the cars
 
-from matplotlib.pyplot import contour      # Let's count only after a few time
-
 # Vamos cortar o vídeo da rodovia em duas regiões
 # Região da direita e região da esquerda
 
